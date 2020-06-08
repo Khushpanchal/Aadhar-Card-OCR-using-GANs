@@ -1,4 +1,7 @@
 # Aadhar-Card-OCR-using-GANs
+
+COLAB link of project:- https://colab.research.google.com/drive/1qlGPwWpyi93Q7b_9nEPCgmEU2eBa0i9V?usp=sharing
+
 Process Used:- Described in the given file using comments
 Pretrained Model:- https://drive.google.com/file/d/1YKpJbosFgdpLK17nShIpYvyMn2yY5rpE/view?usp=sharing
 Github repository containing the GAN code: https://github.com/xinntao/ESRGAN.git
