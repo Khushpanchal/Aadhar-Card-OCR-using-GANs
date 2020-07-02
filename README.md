@@ -1,11 +1,11 @@
 # Aadhar-Card-OCR-using-GANs
 
 Project:- https://drive.google.com/drive/folders/1HEwF2cj0jZwQ0MuKVMi-jMCTEV4tg28Q?usp=sharing
-
+Colab Notebook Link:- https://colab.research.google.com/drive/1N3owZRFLrSLNVSFy6Eh37zDNTChwKqn2?usp=sharing
 Reference:- https://github.com/idealo/image-super-resolution
 
 Process Used:- Described in the given file using comments (OCR.ipynb)
-Pretrained Model:- Using ISR module in Python which is trained on DIV2K dataset.
+Pretrained Model:- Using ISR module in Python which is trained on DIV2K dataset
 Run the code in Google Colab with GPU runtime
 
 General Process:-
