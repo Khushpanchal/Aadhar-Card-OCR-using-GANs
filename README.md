@@ -16,3 +16,8 @@ General Process:-
 5. After find aadhar no. validate it using Verhoeff Algorithm
 
 Note:- Before converting the image into high quality do the OCR with low qualty images.
+
+Other Technique:-
+EAST pretrained model: https://drive.google.com/drive/folders/1BS6tCzCitiAKX2VHhRzREFI-i6d17lYW?usp=sharing
+east.py will take image put it into EAST model and extract parts of the images than use tesseract to detect aadhar card number.
+Note:- EAST model can be combined with GANs to get better accuracy.
